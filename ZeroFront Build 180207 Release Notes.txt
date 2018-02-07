@@ -1,0 +1,42 @@
+ZeroFront Build 180207 Release Notes
+Download = https://swbfmodders.com/index.php?topic=433
+* For advanced SWBF modders only
+
+I first started working on ZeroFront in 2014 with my "BF2 to BF1 stock maps shell mod" ideas thread on SWBFModders. Build 180207 improves the stock Core.lvl, Mission.lvl, and Shell.lvl for new stock map support. New custom Load.lvl builds and custom voiceovers are pending a future update. You can either download the installer, or the manual patch files. Make sure the new maps go here:
+C:\Program Files (x86)\LucasArts\Star Wars Battlefront\GameData\Data\_LVL_PC\ZERO
+
+I've added 12 new maps from stock BFII to SWBF. These no longer use AddOn and are considered base game maps. Players who install this patch can safely remove these maps from their AddOn folder, since they're obsolete and incompatible online. I've added them to the default Clone Wars and Galactic Civil Wars Campaign too as extensions for the regular game campaigns, which are now both twice as long as before!
+
+All of these maps were ported by Phobos, BattleBelk, Rebel Scum, and Imperial Strikeforce. Here is the new missionlist: 
+Coruscant: Jedi Temple - Phobos
+Dagobah: Swamp - Phobos
+Death Star: Interior - Phobos
+Felucia: Marshland - Phobos
+Geonosis: Dust Plains - Phobos
+Kamino: Cloning Facility - Phobos
+Kashyyyk: BeachHead - Phobos
+Mustafar: Refinery - Rebel Scum & Imp Strikeforce
+Mygeeto: War-Torn City - Rebel Scum & Imp Strikeforce
+Polis Massa: Medical Facility - BattleBelk
+Tantive IV: Interior - Phobos
+Utapau: Sinkhole -  Phobos
+
+12 additional mod maps for BF1 have also been added. Currently these are:
+Coruscant: City - Rends
+Coruscant: Streets - Rends
+Dantooine: Dust - Eddie
+Dantooine: Outpost - Ginev
+Earth: Egypt - Yoda The Froggy
+Earth: Russia - Yoda The Froggy
+Felucia: Forest - Phobos
+Hoth: Caves - Yoda The Froggy
+Naboo: Prototype - Psych0fred
+Ord Mantel: No Greater Glory - Rippentuck
+Rhen Var: Bridge - NewGuy99
+Tranquaan: Tech Center - Skyhammer_216
+
+In addition to 16 stock BF1 maps such as Rhen Var: Citadel, all 12 stock BF2 maps excluding space maps (for now), and several converted mod maps (currently 12), Star Wars ZeroFront now features a total of 40 stock classical maps! 
+
+Only Tatooine: Jabba's Palace remains in the AddOn, this frees up the AddOn folder for several custom mod maps. All of The Walking Dead Battlefront maps (as of v0.97) are also supported by default in the game shell for ZeroFront. The 1.2 game engine supports hundreds of stock maps, but only 24 mod maps, so expect to see more maps converted in future ZeroFront updates. 
+
+Our SWBFSpy servers will be hosting the new stock maps for all PC community players. Thanks to the www.SWBFModders.com community for keeping Star Wars Battlefront alive with new amazing releases! 
