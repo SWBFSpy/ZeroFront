@@ -5,7 +5,7 @@ Download = https://swbfmodders.com/index.php?topic=433
 I first started working on ZeroFront in 2014 with my "BF2 to BF1 stock maps shell mod" ideas thread on SWBFModders. Build 180207 improves the stock Core.lvl, Mission.lvl, and Shell.lvl for new stock map support. New custom Load.lvl builds and custom voiceovers are pending a future update. You can either download the installer, or the manual patch files. Make sure the new maps go here:
 C:\Program Files (x86)\LucasArts\Star Wars Battlefront\GameData\Data\_LVL_PC\ZERO
 
-I've added 12 new maps from stock BFII to SWBF. These no longer use AddOn and are considered base game maps. Players who install this patch can safely remove these maps from their AddOn folder, since they're obsolete and incompatible online. I've added them to the default Clone Wars and Galactic Civil Wars Campaign too as extensions for the regular game campaigns, which are now both twice as long as before!
+I've added 12 new maps from stock BFII to SWBF. These no longer use AddOn and are considered base game maps. Players who install this patch can safely remove these maps from their AddOn folder, since they're obsolete and incompatible online. I've added them to the default Clone Wars and Galactic Civil Wars Campaign too as extensions for the regular game campaigns, which are now both twice as long as before! Also Kamino, Geonosis, Endor, and Hoth now support both GCW and CW eras for each map. 
 
 All of these maps were ported by Phobos, BattleBelk, Rebel Scum, and Imperial Strikeforce. Here is the new missionlist: 
 Coruscant: Jedi Temple - Phobos
