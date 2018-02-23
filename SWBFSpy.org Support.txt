@@ -1,0 +1,12 @@
+ZeroFront uses SWBFSpy for continued multiplayer support after the death of GameSpy. The battlefront client and server executables have been hex edited to support connection to the official replacement Master Server -> https://github.com/SWBFSpy/SWBFSpy 
+
+Currently our MS is not yet fully functional, however once it is, an announcement will be posted on our community websites, and also the GitHub repos. 
+
+A new ZeroFront Build will also be released sometime this year with new features. Players can manually hex edit support for SWBFSpy by themselves, using these instructions: 
+- Download HxD or any other free hex editor
+- Open Battlefront.exe with HxD and go to Search -> Replace
+- Replace all instances of "gamespy.com" with "swbfspy.org" (without the quotes)
+- Save the .exe and launch SWBF, using the SWBFSpyAdmin Launcher by Phobos if you have it
+- Click SWBFSpy Server Lobby ingame, it will connect you to SWBFSpy.org if your IP is Whitelisted
+- Repeat the hex edit for any server executables you have if hosting dedicated servers
+- Join a game server, or contact Phobos if you have issues connecting to SWBFSpy 
