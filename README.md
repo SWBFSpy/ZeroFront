@@ -88,7 +88,7 @@ Planned tentative future build release dates as of January 2020. If there are en
 - June TBA - v0.976
 - October 31st - v0.98
 
-**Updates this month (February 2020) include:**
+**Updates this month (February 2020) include**
 -
 - Improvements to boot camp
 - 2 new alien wars missions (Mos Eisley and Spaceport)
@@ -101,3 +101,11 @@ Planned tentative future build release dates as of January 2020. If there are en
 - Updated Mos Eisley Europa skin
 - New mod patch test for wavespawn undead assault mode
 - Patch test for other various bugs posted here https://swbfmodders.com/index.php?topic=1471.msg2424#msg2424
+
+**February 2020 Extended Update Notes**
+-
+After extensive testing, Phobos has added 4 extremely major bugfixes to TWDZF v0.972, in addition to the previously noted upgrades. These improvements are HUGE for the game, which is being taken to unprecedented heights now because of SWBFModders! 
+- Anti-Suicide Feature implemented for ZeroFront. AI no longer suicide after 15 minutes in SP or MP. Proper boss battles and sieges where AI fight for hours is all possible now thanks to Phobos. See this thread for tutorial notes @ https://swbfmodders.com/index.php?topic=120.msg2448#msg2448 
+- Blackfoot Bugs patched for Jesus, Tara, and Beta. Also improved Phobos' Blackfoot Repair Guide @ https://swbfmodders.com/index.php?topic=120.msg2445#msg2445
+- Increased SP&MP Model Memorypools, there's now at least twice as many visible models in the game! Tutorial @ https://swbfmodders.com/index.php?topic=120.msg2434#msg2434
+- Upgraded Wavespawn Scripts for Undead Assault Mode! Now there are proper wavespawns set up exactly like Killing Floor for these missions.
