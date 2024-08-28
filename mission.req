@@ -633,6 +633,7 @@ ucft
 "mim1c"
 "mon1a"
 "mon1c"
+"mon1c_h"
 "mon2a"
 "mon2c"
 "moq1a"
@@ -1348,6 +1349,7 @@ ucft
 	"yax9a"
 	"yax9c"
 	"zio1a"
+	"zio1a_h"
 	"zio1c"
 	
 	"tat2bc01"
