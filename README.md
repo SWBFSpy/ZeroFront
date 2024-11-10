@@ -12,8 +12,89 @@ Celebrate 20 years of Star Wars Battlefront!
 ## Download ZeroFront v0.990 @ https://i.imgur.com/TdLI80v.png
 
 ## MOST README SECTIONS NOT ON GITHUB, SEE THE PDF FOR MORE INFO.
-
 An ongoing project since 2009 by SWBFSpy | Founder/CEO | Phobos [FC] and other active members of the www.SWBFModders.com community to update Star Wars Battlefront (2004) with improved game files and new features such as increased memorypools, unlocked client/server mod limits, VR support, neural network AI, sprint, CTF mode, and multiplayer + cross-platform support for custom Galactic Conquests. ZeroFront mod is supported on the SWBFspy master server infrastructure as well as other versions (Steam/GOG/ClassicCollection/etc.) of the original SWBF.
+
+ZeroFront v0.990c Patch - November 11th 2024
+-
+**https://app.mediafire.com/brx3s8qfq8edj**
+
+**https://mega.nz/folder/pG0ViarR#jaGFiNlsDuRKYIE8MVH4dw**
+
+**https://swbfspy.org/fcbf/TWD/beta_mods/ZFpatch_0990c.7z**
+
+**https://swbfmodders.com/ZeroFront/ZFpatch_0990c.7z**
+
+**https://github.com/SWBFSpy/ZeroFront/blob/master/ZFpatch_0990c.txt**
+
+Note: The "c" patch couldn't be uploaded to GitHub due to containing modified exe. The only official download links for it are from MediaFire, Mega, SWBFSpy and SWBFModders. These four websites shall contain the latest cutting edge patch files for ZeroFront.
+
+Every ZF patch between v0.990 and v1.0 uses v0.990 [5GB] as a base, and players only need the most recent addon patch instead of any previous ones. So, if you downloaded v0.990 and then the v0.990c patch, you do NOT need the "a" or "b" patch, as those files are included with the "c" patch except where superseded. And again when the v0.991 patch drops, you only need that + the v0.990 base files. Addons for v0.990 will be released up until v0.999z. Only when ZeroFront v1.0 is released must players re-download the entire game.
+
+Instructions: To install, first extract "ZeroFront_v0.990" to "C:\ZeroFront", and then extract "ZFpatch_0990c.7z" to "C:\ZeroFront", say yes to overwrite files. (If you have Gold Edition then extract that right before 0.990c)
+
+Patch Notes:
+1. Bornesia: Valley crashing patched by editing the bor1_conquest.lyr to replace all 30 instances of "bor_bldg_railgun" with "com_weap_gunturret"
+2. Quinlan Vos rebalanced with mynnic2.odf called upon for MYN LUA (Mynnic is stronger for AWC campaign, with Vos now the same strength as Obi-Wan)
+3. Force Push removed from all jedi/sith except Yoda, Mace, Oppo, Plagueis, Sidious and Binks (Luke Skywalker given Chaingun, other units given pistol)
+4. Count Dooku's pistol swapped with Force Lightning
+5. All JetJumps (except for Yoda and Maw) set to 16, with Mace, Oppo, Plagueis, Sidious, Binks, Maul and Greivous set to 21
+6. Yoda, Maw, Maul and Greivous have fall damage removed
+7. Included expanded sound memorypool instructions for SPTest, Steam, GOG, and Classic Collection executable versions
+8. Added 010 Editor Scripts (modding tool) by BattleBelk
+9. Increased Desann size to Wookiee and Greivous skeleton scale of 1.15
+10. Patched dro1a_h by changing "sith_maw" typo to "geo_inf_maw"
+11. Added Oppo Rancisis to JEDI.lvl and swapped Kyle Katarn on exe0a_h with Oppo Rancisis
+12. Added C-3PO Battledroid to SITH.lvl and to the following scripts: eli1c_h, cor1c_h, dro1a_h, bez0a, tau0a, coo1a_h, exe0a and exe0a_h
+13. Updated health values accordingly: Plagueis/Binks/Sidious/Yoda/Oppo/Mace=2000, Desann/Vader/Kylo/Rey/Luke/Obiwan/Greivous/Maul/Quinlan/Dooku/C-3PO=1500, Asajj/Quigon/Jerec/Maw/Kit/Kiadi/Ahsoka/Kyle=1000
+14. All instances of "all_weap_inf_forcepull" changed to "rep_weap_inf_forcepush"
+15. Swapped Greivous Flamethrower with Chaingun and changed HealthType to droid
+16. Added fixed Greivous model by Napseeker
+17. Disabled NoEnterVehicles for jedi/sith/mace/mon/myn odfs
+18. Reduced Force Jump JetFuelRechargeRate from 0.2 to 0.075
+19. Added sonic blaster to Kaminoan and Blue Geonosian
+20. 2 new maps ported and temporarily stored in GameData\AddOn
+- kua1 Kuat: Island - bobfinkl & Phobos
+- thr1 Thrakia: Oceanic Pass - bobfinkl & Phobos
+
+**Credit Updates**
+-
+- Cerea: Savage Hunt - AgentSmith_27 & Phobos
+- C-3PO - Napseeker & Phobos
+- Oppo Rancisis - Deviss
+- Darth Plagueis - Wazmol
+- General Greivous - Napseeker & Pandemic
+
+Phobos: This is basically the idea for the ZeroFront First Order Campaign rewrite of Episodes 7-9. Yoda still dies at the end of ROTJ/GCW but so does Sidious. The Jedi Council is reborn with Oppo Rancisis as the Grand Master, and Luke Skywalker as Master of the Order. Rey Skywalker joins the council, along with Coleman Kcaj (as a Rakata instead of Ongree), Ahsoka Tano, Kyle Katarn, Quinlan Vos, Cilghal, K'Kruhk and Mara Jade. Plagueis and Binks reveal themselves as the top sith lords, recruiting Kylo Ren and Asajj Ventress as acolytes. C-3PO works as a rogue agent similar to 8t88, but develops force powers and uses a yellow lightsaber.
+
+**ZeroFront v0.990b Patch - October 18th 2024**
+-
+1. Upgraded MACE.lvl for Mace Windu
+- Purple lightsabers can now deflect
+- Commando pistol changed to Proton Torpedo
+- Rocket Launcher changed to Projectile Cannon
+2. Upgraded mon.lvl for improved Ackbar
+- MaxHealth increased from 300 to 450
+- MaxSpeed increased from 7.0 to 7.5
+- UnitType changed from Scout to pilot
+3. Upgraded JEDI.lvl Ahsoka's bowcaster improved
+- LifeSpan from 0.8 to 2.0
+- Velocity from 150 to 250
+- MaxRange from 120 to 500
+4. Patched JEDI.lvl bug where green lightsaber odf called upon blue lightsaber texture
+5. Includes SITH.lvl from the v0.990a patch
+6. Includes latest mission build from October 12 2024 patched myg1c_h and rho6c_h
+7. Increased sound memorypools from 32mb to 256mb
+* ZF Note: Updated battlefront.exe not included here, add this hex edit manually
+- Another hack upgrade by Zelenium for increased sound memorypools 32mb to 256mb
+Client Offset 000095AD: 00 02 E8 -> 00 16 E8
+Client Offset 00009755: 00 02 C7 05 38 52 CD 01 80 00 00 -> 00 16 C7 05 38 52 CD 01 00 04 00
+8. Improved shadows for hot1_alt
+
+**ZeroFront v0.990a Patch - September 21st 2024**
+-
+I forgot to disable lightsaber deflect for some of the new heroes, so I've added a quick fix for this.
+No time to recompress everything, just extract the patch 7z (after installing ZeroFront) to overwrite Mace, Jedi and Sith files here 
+C:\ZeroFront\GameData\Data\_LVL_PC\SIDE
 
 **Star Wars: ZeroFront v0.990**
 -
